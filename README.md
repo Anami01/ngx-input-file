@@ -58,7 +58,7 @@ These settings will overide the configuration defined with `forRoot()` method.
 | iconLink               | Input - string       | The icon for link. |
 | linkEnabled               | Input - boolean      | Whether adding is url is enabled. |
 | placeholderLink               | Input - string      | The placeholder for the link input. |
-| sizeLimit               | Input - number                  | The maximum size of the file (kB). |
+| sizeLimit               | Input - number                  | The maximum size of the file (MB). |
 | disabled                | Input - boolean                 | Whether the component is disabled. |
 | placeholder             | Input - string                  | The placeholder of the component. |
 | classAnimation          | Input - string                  | The class of the image container which allow to animate the container when select or drop a file. |
@@ -79,7 +79,7 @@ These settings will overide the configuration defined with `forRoot()` method.
 | iconLink               | string       | 'link'         | The icon for link. |
 | linkEnabled               | boolean    | false              | Whether adding is url is enabled. |
 | placeholderLink               | string    | 'Link'              | The placeholder for the link input. |
-| sizeLimit               | number      | null     | The maximum size of the file (kB). |
+| sizeLimit               | number      | null     | The maximum size of the file (MB). |
 
 ## Example
 
